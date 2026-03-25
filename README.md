@@ -39,7 +39,7 @@ When I'm not writing code I'm probably in VRChat, modding something, or both at 
 **🎮 Games**
 - **[VRChat Cache Cleaner](https://github.com/vicentefelipechile/vrchat-cachecleaner)** - A simple cache cleaner for VRChat, it starts when PC turn on
 - **[TF2 Server Relay](https://github.com/vicentefelipechile/tf2-server-relay)** - **(PoC)** A system to connect tf2 servers with zero latency, originally build for Google Cloud Platform
--- **[GMod Panel](https://github.com/vicentefelipechile/gmod-panel)** - A server administrator somewhere between Garry's Mod and Cloudflare Workers
+- **[GMod Panel](https://github.com/vicentefelipechile/gmod-panel)** - A server administrator somewhere between Garry's Mod and Cloudflare Workers
 - **[Minigame Tool Assistant](https://www.gmodstore.com/market/view/minigame-tool-assistant)** - A tool for Garry's Mod to create minigames for server owners
 - **[NPC Sticky](https://github.com/vicentefelipechile/gmod-npc-sticky)** - Allows players to stick NPCs onto props
 - **[Gemini Automod](https://github.com/vicentefelipechile/automodgemini-gmod)** - **(PoC)** A system powered by gemini to automoderate servers
