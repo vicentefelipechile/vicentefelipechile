@@ -30,17 +30,16 @@ When I'm not writing code I'm probably in VRChat, modding something, or both at 
 - **[Portfolio](https://summer-portafolio.vicentefelipechile.workers.dev/)** - My own portfolio based on the old style frutiger aero (Vibe Coded)
 - **[Polymarket Bot Summer](https://github.com/vicentefelipechile/polymarket-bot-summer)** - **(PoC)** Trading bot based on Rust language to use with polymarket (Vibe Coded)
 - **[YT Shortmaker](https://github.com/vicentefelipechile/yt-shortmaker)** - A Short Youtube Clip Maker, it can be use with twitch and others (Vibe Coded)
-- **[TF2 Server Relay](https://github.com/vicentefelipechile/tf2-server-relay)** - **(PoC)** A system to connect tf2 servers with zero latency, originally build for Google Cloud Platform (Vibe Coded)
-
-**🎮 VRChat**
-- **[VRChat Cache Cleaner](https://github.com/vicentefelipechile/vrchat-cachecleaner)** - A simple cache cleaner for VRChat, it starts when PC turn on
-- **[EnlaceVRC Database](https://github.com/vicentefelipechile/enlacevrc-db)** - The database of bot EnlaceVRC, this was been build to use serveless database
-- **[EnlaceVRC Bot](https://github.com/vicentefelipechile/enlacevrc-bot)** - EnlaceVRC bot to verify and link VRChat accounts to Discord by Bio Verification
 
 **🤖 Discord**
 - **[JS Discord ModularCommand](https://github.com/vicentefelipechile/js-discord-modularcommand)** - A "framework" to work on top of discord.js
+- **[EnlaceVRC Database](https://github.com/vicentefelipechile/enlacevrc-db)** - The database of bot EnlaceVRC, this was been build to use serveless database
+- **[EnlaceVRC Bot](https://github.com/vicentefelipechile/enlacevrc-bot)** - EnlaceVRC bot to verify and link VRChat accounts to Discord by Bio Verification
 
-**🔧 Garry's Mod**
+**🎮 Games**
+- **[VRChat Cache Cleaner](https://github.com/vicentefelipechile/vrchat-cachecleaner)** - A simple cache cleaner for VRChat, it starts when PC turn on
+- **[TF2 Server Relay](https://github.com/vicentefelipechile/tf2-server-relay)** - **(PoC)** A system to connect tf2 servers with zero latency, originally build for Google Cloud Platform
+-- **[GMod Panel](https://github.com/vicentefelipechile/gmod-panel)** - A server administrator somewhere between Garry's Mod and Cloudflare Workers
 - **[Minigame Tool Assistant](https://www.gmodstore.com/market/view/minigame-tool-assistant)** - A tool for Garry's Mod to create minigames for server owners
 - **[NPC Sticky](https://github.com/vicentefelipechile/gmod-npc-sticky)** - Allows players to stick NPCs onto props
 - **[Gemini Automod](https://github.com/vicentefelipechile/automodgemini-gmod)** - **(PoC)** A system powered by gemini to automoderate servers
